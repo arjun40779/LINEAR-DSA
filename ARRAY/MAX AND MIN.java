@@ -1,3 +1,5 @@
+
+// max and min in an array
 import java.util.Arrays;
 
 class Main{
