@@ -1,3 +1,4 @@
+//Check if a given array contains duplicate elements within k distance from each other
 public class DublicateInRange {
     public static void main(String[] args) {
         int[] arr = { 10, 5, 3, 4, 3, 5, 6 };
